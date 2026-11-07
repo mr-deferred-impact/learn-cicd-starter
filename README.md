@@ -1,5 +1,4 @@
-![Status](https://github.com/mr-deferred-impact/learn-cicd-starter/actions/workflows/.github/workflows/ci.yml
-/badge.svg)
+![Status](https://github.com/mr-deferred-impact/learn-cicd-starter/actions/workflows/.github/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
